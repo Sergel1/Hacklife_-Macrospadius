@@ -9,33 +9,35 @@ Macrpadilius is a custom six-key macropad designed in KiCad. It uses a Seeed Stu
 
 assets/pcb-3d-front.png
 
-Features
-Six programmable mechanical keys
-EC11 rotary encoder
-Encoder push-button input
-0.91-inch I2C OLED display
-Seeed Studio XIAO microcontroller
-USB-C connection
-Cherry MX-compatible switch footprints
-Custom PCB shape
-B.Cu ground plane
-KiCad source files included
-Project Status
+Features:    Six programmable mechanical keys
+             EC11 rotary encoder
+            Encoder push-button input
+             0.91-inch I2C OLED display
+            Seeed Studio XIAO microcontroller
+            USB-C connection
+           Cherry MX-compatible switch footprints
+           Custom PCB shape
+           B.Cu ground plane
+           KiCad source files included
+         
+           
+           Project Status
 The PCB is currently under development.
 
-Schematic completed
+Schematic completed 
 Components assigned to footprints
 PCB routed
 Ground zone added
 Electrical Rules Check completed
 Design Rules Check completed
-Mounting holes added
-Physical footprints verified
-Gerber files generated
-PCB ordered
-Firmware completed
-Final board assembled and tested
+Mounting holes added - done
+Physical footprints verified - not yet
+Gerber files generated - not yet
+PCB ordered - not yet
+Firmware completed  - not yet
+Final board assembled and tested- Not yet
 PCB Preview
+
 PCB Editor
 assets/pcb-editor.png
 
