@@ -17,7 +17,7 @@
 | [MOUDLE-SEEEDUINO-XIAO](https://www.seeedstudio.com/checkout/guest-checkout.html) | The brain of the operation, do the functions | 1 | $4.90 | $4.90 | [seeedstudio](https://www.seeedstudio.com/checkout/guest-checkout.html) |
 | [ER_OLEDM0.91_1x-I2C](https://www.aliexpress.com/p/trade/confirm.html?objectId=1005008640108394&from=aliexpress&countryCode=SE&shippingCompany=CAINIAO_FULFILLMENT_STD&provinceCode=&cityCode=&aeOrderFrom=main_detail&skuAttr=14%3A173%231pc-white&skuId=12000046056142551&skucustomAttr=&quantity=1&spm=a2g0o.detail.0.0&curPageLogUid=1791649887067_gOBYB1) | the scren, shows what the state is | 1 | $3.56 | $3.56 | [aliexpress](https://www.aliexpress.com/p/trade/confirm.html?objectId=1005008640108394&from=aliexpress&countryCode=SE&shippingCompany=CAINIAO_FULFILLMENT_STD&provinceCode=&cityCode=&aeOrderFrom=main_detail&skuAttr=14%3A173%231pc-white&skuId=12000046056142551&skucustomAttr=&quantity=1&spm=a2g0o.detail.0.0&curPageLogUid=1791649887067_gOBYB1) |
 | **Parts subtotal** | — | — | — | **$19.06** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.06** | — |
+| **Tax & shipping** | — | — | — | **$21.00** | — |
+| **Total** | — | — | — | **$40.06** | — |
 
-$10.94 left of the tier's funding.
+**$10.06 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
