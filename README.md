@@ -4,7 +4,7 @@ The idea of the project is to complete the 10 week "course" of halflife by hackc
 for the first week i decided to build a macropad since it was farily simple and there was a hackclub tutorial
 _______________________________________________________________________________________________________________
 
-Macrpadilius
+I call the macropad : Macrpadilius
 Macrpadilius is a custom six-key macropad designed in KiCad. It uses a Seeed Studio XIAO, six Cherry MX-compatible switches, an EC11 rotary encoder with a push button, and a 0.91-inch I2C OLED display.
 
 assets/pcb-3d-front.png
@@ -24,12 +24,12 @@ Features:    Six programmable mechanical keys
            Project Status
 The PCB is currently under development.
 
-Schematic completed 
-Components assigned to footprints
-PCB routed
-Ground zone added
-Electrical Rules Check completed
-Design Rules Check completed
+Schematic completed - done
+Components assigned to footprints- done
+PCB routed - done
+Ground zone added - done
+Electrical Rules Check completed - done
+Design Rules Check completed - done
 Mounting holes added - done
 Physical footprints verified - not yet
 Gerber files generated - not yet
@@ -39,13 +39,13 @@ Final board assembled and tested- Not yet
 PCB Preview
 
 PCB Editor
-assets/pcb-editor.png
+assets/PCB-editor.png
 
 Front 3D view
-assets/pcb-3d-front.png
+assets/PCB-3d-front.png
 
 Back 3D view
-assets/pcb-3d-back.png
+assets/PCB-3d-back.png
 
 Schematic
 assets/schematic.png
@@ -67,8 +67,8 @@ S1 to a GPIO pin
 S2 to GND
 Bill of Materials
 Quantity	Component	Description
-1	Seeed Studio XIAO	Exact model to be specified
-6	Mechanical switches	Cherry MX-compatible PCB-mount switches
+1	Seeed Studio XIAO	Exact model: Seeed Studio XIAO RP2040 Plus
+6	Mechanical switches	Cherry MX-compatible PCB-mount switches -  Vendor 
 6	Keycaps	Standard 1U keycaps
 1	Rotary encoder	EC11-compatible encoder with push button
 1	Encoder knob	Knob matching the encoder shaft
