@@ -18,7 +18,7 @@
 | [ER_OLEDM0.96_1x-I2C](https://www.aliexpress.com/item/1005009170035050.html?spm=a2g0o.cart.0.0.5b6838da2P8kRv&mp=1&pdp_npi=6%40dis%21SEK%21SEK+35.23%21SEK+35.23%21%21SEK+35.23%21%21%21%400b15834017917282939665037e0e79%2112000048183387212%21ct%21SE%212651699432%21%211%210%21) | the scren, shows what the state is | 1 | $3.52 | $3.52 | [aliexpress](https://www.aliexpress.com/item/1005009170035050.html?spm=a2g0o.cart.0.0.5b6838da2P8kRv&mp=1&pdp_npi=6%40dis%21SEK%21SEK+35.23%21SEK+35.23%21%21SEK+35.23%21%21%21%400b15834017917282939665037e0e79%2112000048183387212%21ct%21SE%212651699432%21%211%210%21) |
 | [pcb](https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=556e439e654d45838c3f75ad56898e8e&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002) | the body | 1 | $7.50 | $7.50 | [jlcpcb](https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=556e439e654d45838c3f75ad56898e8e&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002) |
 | **Parts subtotal** | — | — | — | **$25.05** | — |
-| **Tax & shipping** | — | — | — | **$4.90** | — |
-| **Total** | — | — | — | **$29.95** | — |
+| **Tax & shipping** | — | — | — | **$4.99** | — |
+| **Total** | — | — | — | **$30.04** | — |
 
-$0.05 left of the tier's funding.
+**$0.04 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
