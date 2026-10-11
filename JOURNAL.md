@@ -62,4 +62,6 @@ continued on with matching the hole distance/mounting distance to match the pcb,
 
 **6.43h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/7e57ca85-f353-4ef7-a87f-f6a5087aa95b/video.mp4)
