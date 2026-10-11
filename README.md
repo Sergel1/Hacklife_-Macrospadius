@@ -134,3 +134,5 @@ CERN Open Hardware Licence Version 2 for PCB hardware
 Creative Commons for documentation and images
 Author
 Created by Sergel Hasabella
+
+tl;dr, This project being made is a a 6 button macropad with screen and a knob (7th), most of the work is done and uploaded
