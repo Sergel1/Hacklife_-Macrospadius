@@ -7,7 +7,7 @@ ________________________________________________________________________________
 I call the macropad : Macrpadilius
 Macrpadilius is a custom six-key macropad designed in KiCad. It uses a Seeed Studio XIAO, six Cherry MX-compatible switches, an EC11 rotary encoder with a push button, and a 0.91-inch I2C OLED display.
 
-![Finishedbuild](Assets/finished-build.jpg
+![Finishedbuild](Assets/full_build_macropadilius
 )
 
 Features:    Six programmable mechanical keys
