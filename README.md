@@ -40,13 +40,11 @@ Final board assembled and tested- Not yet
 PCB Preview
 
 PCB Editor
-![]assets/
+![PCB-editor]assets/PCB-editor.png
 )
 
-assets/PCB-editor.png
-
 Front 3D view
-assets/PCB-3d-front.png
+![Front 3D view]assets/PCB-3d-front.png
 
 Back 3D view
 assets/PCB-3d-back.png
