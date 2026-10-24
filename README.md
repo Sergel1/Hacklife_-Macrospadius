@@ -40,18 +40,18 @@ Final board assembled and tested- Not yet
 PCB Preview
 
 PCB Editor
-![PCB-editor]assets/PCB-editor.png
+![PCB-editor](assets/PCB-editor.png
 )
 
 Front 3D view
-![Front 3D view]assets/PCB-3d-front.png
-
+![Front 3D view](assets/PCB-3d-front.png
+)
 Back 3D view
-assets/PCB-3d-back.png
-
+![Back 3D view](assets/PCB-3d-back.png
+)
 Schematic
-assets/schematic.png
-
+![Schematic](assets/schematic.png
+)
 The buttons are connected between individual GPIO pins and GND. The firmware will use the microcontroller's internal pull-up resistors.
 
 The OLED uses I2C:
