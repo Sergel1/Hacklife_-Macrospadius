@@ -140,4 +140,4 @@ Created by Sergel Hasabella
 tl;dr, This project being made is a a 6 button macropad with screen and a knob (7th), most of the work is done and uploaded
 
 
-##disclosure: Ai models such as Gemini and copilot were used to aid in guiding the process of getting to zero errors in schematics and building the pcb, as well as providing the structure for the GitHub documentation 
+# Disclosure: Ai models such as Gemini and copilot were used to aid in guiding the process of getting to zero errors in schematics and building the pcb, as well as providing the structure for the GitHub documentation 
