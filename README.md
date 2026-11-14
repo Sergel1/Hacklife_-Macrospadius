@@ -108,7 +108,12 @@ DRC results
 Gerber and drill-file output
 Do not manufacture the PCB before comparing every footprint with the exact physical component or its mechanical drawing.
 
-# Cad files at 
+# CAD Files
+
+- [Assembly Enclosure (STEP)](hardware/Assembly_enclosure.STEP)
+- [MacroPad Shell With Lid (STEP)](hardware/macropad_shell_withlid.STEP)
+- [Assembly PCB Shell and PCB (SLDASM)](hardware/aseembly%20pcb%20shell%20and%20pcb.SLDASM)
+
 Assembly
 Planned assembly order:
 
